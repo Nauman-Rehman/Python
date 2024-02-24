@@ -1,0 +1,5 @@
+apple is a fruit
+banana is also a fruit
+mango is also a fruit
+papaya is also a fruit
+kiwi is also a fruit

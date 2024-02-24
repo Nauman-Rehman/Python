@@ -1,0 +1,2 @@
+This is a new line try to add in this file . I think it delete's all the existed texts written before in this file 
+this is a new line adding in this file in appending mode and this will not delete the previous existed texts
